@@ -84,6 +84,30 @@ A demonstration of the autonomous surveillance robot is available at the link be
 - https://youtu.be/XXXXXXX
 
 
+---
+
+## Code Architecture Breakdown
+
+Below, each functional part of the final control code is shown with a short explanation of its role
+in the autonomous system. Code snippets are followed by plain-language descriptions for clarity.
+
+---
+
+## 1. System Setup and Initialization
+
+```python
+import sys
+import time
+import cv2
+import cv2.aruco as aruco
+
+sys.path.append('/home/pi/project_demo/lib')
+sys.path.append('/home/pi/project_demo')
+
+from Raspbot_Lib import Raspbot
+from McLumk_Wheel_Sports import stop_robot
+
+bot = Raspbot()
 
 
 
