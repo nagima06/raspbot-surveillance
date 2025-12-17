@@ -95,7 +95,7 @@ in the autonomous system. Code snippets are followed by plain-language descripti
 
 ## 1. System Setup and Initialization
 
-python
+```python
 import sys
 import time
 import cv2
