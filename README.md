@@ -109,6 +109,7 @@ from McLumk_Wheel_Sports import stop_robot
 
 bot = Raspbot()
 
+```
 This section initializes all required libraries and creates the main robot control object.
 It prepares the system for hardware control, sensor access, and vision processing.
 
