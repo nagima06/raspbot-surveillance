@@ -1,5 +1,7 @@
 # raspbot-surveillance
+
 # Autonomous Raspberry-Bot with Vision-Based Detection
+
 ## Project Overview
 This project presents an autonomous Raspberry Pi-based robot designed for surveillance
 and target detection tasks. The robot follows a predefined line path and stops at specific
@@ -36,13 +38,6 @@ The robot remains undamaged and fully functional.
 4. The robot begins line tracking and stops at checkpoints.
 5. Vision-based detection is performed and physical actions are triggered.
 
-
-## Demo Video
-A demonstration video will be provided showing the following steps:
-1. Input: Camera capturing the environment.
-2. Inference: Vision-based detection process.
-3. Output: Physical robot actions such as movement, camera rotation, or sound output.
-
 ## Error Board
 
 **Case 1: Detection failure under low lighting**
@@ -77,6 +72,10 @@ camera control, and AprilTag-based detection.
 
 
 ## Demo Video
+A demonstration video will be provided showing the following steps:
+1. Input: Camera capturing the environment.
+2. Inference: Vision-based detection process.
+3. Output: Physical robot actions such as movement, camera rotation, or sound output.
 
 A demonstration of the autonomous surveillance robot is available at the link below.
 
