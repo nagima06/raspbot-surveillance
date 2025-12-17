@@ -59,3 +59,42 @@ which limits adaptability to unfamiliar environments.
 Performance may vary depending on lighting conditions and physical setup.
 Future work includes integrating a learning-based model and improving
 robustness under diverse real-world scenarios.
+
+
+
+
+
+
+## Full Source Code
+
+The complete control program for the autonomous Raspbot is provided below.
+
+📄 Main control code:  
+- [`raspbot_main.py`](code/raspbot_main.py)
+
+This file contains the full implementation of navigation, obstacle avoidance,
+camera control, and AprilTag-based detection.
+
+
+## Demo Video
+
+A demonstration of the autonomous surveillance robot is available at the link below.
+
+🎥 Demo video:
+- https://youtu.be/XXXXXXX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
