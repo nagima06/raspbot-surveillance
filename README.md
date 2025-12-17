@@ -95,7 +95,7 @@ in the autonomous system. Code snippets are followed by plain-language descripti
 
 ## 1. System Setup and Initialization
 
-```python
+python
 import sys
 import time
 import cv2
@@ -109,7 +109,8 @@ from McLumk_Wheel_Sports import stop_robot
 
 bot = Raspbot()
 
-
+This section initializes all required libraries and creates the main robot control object.
+It prepares the system for hardware control, sensor access, and vision processing.
 
 
 
