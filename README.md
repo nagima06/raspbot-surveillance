@@ -80,7 +80,7 @@ A demonstration video will be provided showing the following steps:
 A demonstration of the autonomous surveillance robot is available at the link below.
 
 🎥 Demo video:
-- https://youtu.be/XXXXXXX
+- https://youtube.com/shorts/Eiyitz5DIfM?feature=share
 
 
 ---
